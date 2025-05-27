@@ -24,3 +24,7 @@ connectDB()
 //? 5) build command ==> npm i
 //? 6) start command ==> npm start
 //? 7) add .env variables
+//? 8) before deploying make sure you are connected to atlas, and in network access set allow access from anywhere
+//? 9) deploy
+
+//! https://www.youtube.com/watch?v=_4CPp670fK4 ==> eCommerce project
