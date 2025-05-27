@@ -18,3 +18,9 @@ connectDB()
 
 //! render ==>
 //? 1) select web services to deploy backend
+//? 2) select the github repo which you want to deploy
+//? 3) select the branch which you want to deploy
+//? 4) select the root dir
+//? 5) build command ==> npm i
+//? 6) start command ==> npm start
+//? 7) add .env variables
